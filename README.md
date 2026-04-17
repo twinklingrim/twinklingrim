@@ -1,4 +1,4 @@
-<div align="center">## Привет! / Hi there! 👋 </div>
+<div align="center"> Hi there! 👋 </div>
 
 <!--
 **twinklingrim/twinklingrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
